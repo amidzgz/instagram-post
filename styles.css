@@ -1,0 +1,39 @@
+.header{
+    display: flex;
+    margin: 10px 5px 0px 5px;
+    
+}
+.icono-html5{
+    padding: 10px 10px 0px 15px;
+    
+}
+body{
+    background-color: black;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+}
+.post{
+    background-color: white;
+    width: 400px;
+    height: 600px;
+    margin: auto;
+}
+
+img{
+    width: 400px;
+    height: 300px
+}
+.foot{
+    margin: 15px 15px 5px 15px;
+}
+#bookmark{
+    float: right;
+}
+.kebab{
+    padding: 10px 0px 10px 260px;
+}
+
+.perfil p{
+    margin: 5px 5px 5px 0px;
+}
+
